@@ -1,7 +1,8 @@
 ﻿using BlazorServerCRUD.Data;
+using BlazorServerCRUD.Model;
 using Microsoft.EntityFrameworkCore;
 
-namespace BlazorServerCRUD
+namespace BlazorServerCRUD.Services
 {
     public class ProductService
     {

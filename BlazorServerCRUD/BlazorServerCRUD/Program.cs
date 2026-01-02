@@ -1,5 +1,5 @@
-using BlazorServerCRUD;
 using BlazorServerCRUD.Data;
+using BlazorServerCRUD.Services;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.EntityFrameworkCore;

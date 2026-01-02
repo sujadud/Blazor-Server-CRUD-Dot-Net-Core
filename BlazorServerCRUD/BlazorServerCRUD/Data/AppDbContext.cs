@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using BlazorServerCRUD.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlazorServerCRUD.Data
 {

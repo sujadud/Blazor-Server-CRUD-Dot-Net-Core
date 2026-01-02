@@ -1,4 +1,4 @@
-﻿namespace BlazorServerCRUD
+﻿namespace BlazorServerCRUD.Model
 {
     public class Product
     {

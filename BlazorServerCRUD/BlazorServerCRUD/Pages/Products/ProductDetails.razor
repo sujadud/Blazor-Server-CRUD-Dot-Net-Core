@@ -1,4 +1,6 @@
 ﻿@page "/products/{id:int}"
+@using BlazorServerCRUD.Model
+@using BlazorServerCRUD.Services
 @inject ProductService _productService;
 
 @if(product is null)
